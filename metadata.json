@@ -1,0 +1,5 @@
+{
+  "name": "IPTV Monitor & Player",
+  "description": "A professional tool to parse, validate, and play IPTV streams (M3U/TXT). Features signal quality detection, latency testing, and an integrated HLS player.",
+  "requestFramePermissions": []
+}
